@@ -27,3 +27,6 @@ The program displays the following:
 	 And, some user data when available
 		Gender and birth year available for Chicago and NYC
 		User-type available for all cities
+
+### Program dates
+	Program submitted for review and approved on August 14, 2021
