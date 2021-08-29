@@ -12,9 +12,18 @@
 ### Files used
 ### FinalSubmission.py
 
-Data Files:
+### Data Files:
 ### chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 ### I used the knowledge center to help me complete the project when I submitted it to fulfill the requirements for project 2.
 
+### Detailed Description
+The program displays the following:
+     Most popular start times
+	 Most popular start & end stations and/or trips
+	 The total travel time & average length of the trips 
+	 Most common month, day and time for travel
+	 And, some user data when available
+		Gender and birth year available for Chicago and NYC
+		User-type available for all cities
