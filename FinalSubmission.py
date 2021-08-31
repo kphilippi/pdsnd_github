@@ -309,7 +309,8 @@ def user_stats(df):
         else:
             print('Something went wrong. Please enter yes or no. ')
 
-# This function allows program to run until user says to stop.
+# The main function is the starting point for the program. It is not required in python programs.
+# It will not run if the program is imported as a module but does run when it is executed as a program.
 
 def main():
     while True:
@@ -324,28 +325,3 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no? \n')
         if restart.lower() != 'yes':
             break
-
-
-if __name__ == "__main__":
-	main()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
